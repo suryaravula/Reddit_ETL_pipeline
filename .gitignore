@@ -1,0 +1,35 @@
+# created by virtualenv automatically
+*.conf
+# General
+*.pyc
+__pycache__/
+.env
+.venv
+.envrc
+
+# Docker related
+*.log
+*.pid
+docker-compose.override.yml
+docker-compose*.log
+docker-compose*.pid
+
+# Airflow specific
+airflow.cfg
+unittests.cfg
+logs/
+dags/__pycache__/
+plugins/__pycache__/
+webserver_config.py
+airflow.db
+airflow-webserver.pid
+
+# Airflow SQLite DB (if used)
+
+# Credentials (if any)
+*.key
+*.pem
+secrets/
+.idea/
+airflow.env
+

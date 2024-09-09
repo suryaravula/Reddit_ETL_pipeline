@@ -1,0 +1,11 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1fc2pqb,How much should I learn about almost obsolete technologies like Hadoop or Hive?,46,33,Imaginary_Reach_1258,2024-09-08 17:06:33,https://www.reddit.com/r/dataengineering/comments/1fc2pqb/how_much_should_i_learn_about_almost_obsolete/,False,False,False,False
+1fc1q83,Do you think data engineers need to spend much time learning OLTP systems?,48,25,vutr274,2024-09-08 16:24:01,https://www.reddit.com/r/dataengineering/comments/1fc1q83/do_you_think_data_engineers_need_to_spend_much/,False,False,False,False
+1fbrfzq,How do you document SQL schemas to others,41,30,skiddadle400,2024-09-08 06:32:50,https://www.reddit.com/r/dataengineering/comments/1fbrfzq/how_do_you_document_sql_schemas_to_others/,False,False,False,False
+1fbtob9,Becoming an expert,38,15,Competitive_Lie_1340,2024-09-08 09:14:58,https://www.reddit.com/r/dataengineering/comments/1fbtob9/becoming_an_expert/,False,False,False,False
+1fbv5vx,Is Microsoft Learn enough to pass DP-203 exam?,27,6,TerraTechie,2024-09-08 11:00:13,https://www.reddit.com/r/dataengineering/comments/1fbv5vx/is_microsoft_learn_enough_to_pass_dp203_exam/,False,False,False,False
+1fbynu7,"Built my first data pipeline using data bricks, airflow, dbt, and python. Looking for constructive feedback",24,4,Massive-Agent-7920,2024-09-08 14:10:12,https://www.reddit.com/r/dataengineering/comments/1fbynu7/built_my_first_data_pipeline_using_data_bricks/,False,False,False,False
+1fcdler,DuckDB - OLAP option that seems pretty good,13,30,Engineer_5983,2024-09-09 01:16:27,https://www.reddit.com/r/dataengineering/comments/1fcdler/duckdb_olap_option_that_seems_pretty_good/,False,False,False,False
+1fc1t9t,Data cataloging - getting started / manual / auto,4,1,technoswanred,2024-09-08 16:27:36,https://www.reddit.com/r/dataengineering/comments/1fc1t9t/data_cataloging_getting_started_manual_auto/,False,False,False,False
+1fbzanj,data vault and data contract - as a combo?,7,4,jesper-h-h,2024-09-08 14:38:37,https://www.reddit.com/r/dataengineering/comments/1fbzanj/data_vault_and_data_contract_as_a_combo/,False,False,False,False
+1fc8x16,Handling messy unstructured files - anyone else?,5,5,diti85,2024-09-08 21:32:43,https://www.reddit.com/r/dataengineering/comments/1fc8x16/handling_messy_unstructured_files_anyone_else/,False,False,False,False

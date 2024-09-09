@@ -1,0 +1,25 @@
+[database]
+database_host = localhost
+database_name = airflow
+database_port = 5436
+database_username = postgres
+database_password = postgres
+
+[file_paths]
+input_path =  /opt/airflow/data/input
+output_path = /opt/airflow/data/output
+
+[api_keys]
+reddit_secret_key = dw3swdcsaE43DSC-qafEMAyg
+reddit_client_id = TEWCIJSHBSDCHBUTgpBWQS1A
+
+[aws]
+aws_access_key_id = DSCSVJnusbdfUH
+aws_secret_access_key= Iudusygasnu+3ascbjascDSHJvO60GdZ
+aws_region = us-east-10
+aws_bucket_name = my-reddit
+
+[etl_settings]
+batch_size = 10
+error_handling = abort
+log_level = info
